@@ -1,0 +1,16 @@
+telegram:
+  token: 0
+  chat: -1001235965180
+  # chat: -1001703248357
+
+redis: localhost:6379
+
+zoom: 12
+
+bounds:
+  bottom_left:
+    lat: 47.09810428793494
+    lng: 39.34742921062893
+  top_right:
+    lat: 47.361431310686775
+    lng: 40.1253985709805
